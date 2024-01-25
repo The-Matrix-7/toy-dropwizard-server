@@ -1,4 +1,4 @@
-name: continuous integration example
+name: continuous integration example week2
 
 on:
   push:
